@@ -1,5 +1,5 @@
 # Nokia-Asset-Pack
 Old Nokia asset pack for Flipper Zero
 
-![nokia](https://github.com/user-attachments/assets/371cc209-bb8a-459e-9934-98952aeafa7f)
+![nokia](https://github.com/user-attachments/assets/529822a7-e2c8-4cfe-8774-838ed8792092)
 

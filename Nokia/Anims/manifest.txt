@@ -43,6 +43,3 @@ Min level: 1
 Max level: 30
 Weight: 3
 
-
-Max level: 30
-Weight: 3
